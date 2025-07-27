@@ -12,7 +12,7 @@ This project demonstrates a **Persistence of Vision (POV)** display that shows t
 
 ### Demo Video
 
-![Circuit Diagram](video/pov_demo.mp4)
+[![Circuit Diagram](video/pov_demo.mp4)](https://github.com/user-attachments/assets/656f1807-a8fc-4f53-99d4-23c0d0261572)
 
 
 
@@ -28,24 +28,16 @@ This project demonstrates a **Persistence of Vision (POV)** display that shows t
 
 ## 🔧 Components Used
 
-| Component            | Quantity | Description                                 |
-|---------------------|----------|---------------------------------------------|
-| Arduino Nano         | 1        | Controls the LED pattern                    |
-| LEDs                | 10       | For POV pattern (D3–D12)                    |
-| Always-on LED       | 1–2      | On D13, stays on for power indicator        |
-| Hall Effect Sensor  | 1        | Detects rotation start (connected to D2)   |
-| Resistors (330Ω)     | 10+      | For LED current limiting                    |
-| Magnet              | 1        | Mounted on rotating object                  |
-| Battery / USB       | 1        | Power supply                                |
+| Component            | Quantity | Description                                |
+|----------------------|----------|---------------------------------------------|
+| Arduino Nano         | 1        | Controls the LED pattern                   |
+| LEDs                 | 10       | For POV pattern (D3–D12)                    |
+| Hall Effect Sensor   | 1        | Detects rotation start (connected to D2)    |
+| Resistors            | 2        | For LED current limiting                    |
+| Magnet               | 1        | Mounted on stand                            |
+| Battery (5v)         | 1        | Power supply                                |
 
 ---
 
-## 💾 Arduino Code
 
-The full code is available in the [code](code/) directory:  
-[`pov_display.ino`](code/pov_display.ino)
-
----
-
-## 📁 Folder Structure
 
