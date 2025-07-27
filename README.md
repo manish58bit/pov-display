@@ -1,4 +1,4 @@
-# POV Display - JAI HIND 🇮🇳
+# POV Display
 
 This project demonstrates a **Persistence of Vision (POV)** display that shows the text `"JAI HIND"` using 10 LEDs mounted on a rotating arm, controlled by an **Arduino Nano** and triggered by a **Hall effect sensor**.
 
@@ -12,8 +12,8 @@ This project demonstrates a **Persistence of Vision (POV)** display that shows t
 
 ## 🎥 Demo Video
 
-https://github.com/YOUR_USERNAME/POV-Display-JAI-HIND/assets/your_video_file.mp4  
-*Or upload and embed directly if it's small.*
+<video src="https://user-images.githubusercontent.com/video/mipovdisplay.mp4" controls width="600"></video>
+
 
 ---
 
