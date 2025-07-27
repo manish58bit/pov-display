@@ -10,9 +10,14 @@ This project demonstrates a **Persistence of Vision (POV)** display that shows t
 
 ---
 
-## 🎥 Demo Video
+### Demo Video
 
-<video src="https://user-images.githubusercontent.com/video/mipovdisplay.mp4" controls width="600"></video>
+https://user-images.githubusercontent.com/123456789/abcdefg.mp4
+
+Or watch below:
+
+<video src="https://user-images.githubusercontent.com/123456789/abcdefg.mp4" controls width="600"></video>
+
 
 
 ---
