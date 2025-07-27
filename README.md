@@ -12,11 +12,7 @@ This project demonstrates a **Persistence of Vision (POV)** display that shows t
 
 ### Demo Video
 
-https://user-images.githubusercontent.com/123456789/abcdefg.mp4
-
-Or watch below:
-
-<video src="https://user-images.githubusercontent.com/123456789/abcdefg.mp4" controls width="600"></video>
+![Circuit Diagram](video/pov_demo.mp4)
 
 
 
